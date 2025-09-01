@@ -18,7 +18,7 @@ Kullanıcılar yeni görevler ekleyebilir, seçip silebilir.
 
 ## 📷 Ekran Görüntüsü
 
-![Todo App Screenshot](./screenshot.png)
+<img width="1393" height="857" alt="Image" src="https://github.com/user-attachments/assets/0bc8b4f9-af4e-4349-9dbf-f9854a62c128" />
 
 
 
