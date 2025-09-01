@@ -1,12 +1,81 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# 📝 Todo App
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Basit bir **React + Tailwind CSS** ile geliştirilmiş **Yapılacaklar Listesi (Todo App)** uygulaması.
+Kullanıcılar yeni görevler ekleyebilir, seçip silebilir.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🚀 Özellikler
+
+* Görev ekleme ✍️
+* Görev silme 🗑️
+* Responsive tasarım (Tailwind CSS) 📱💻
+* Basit ve şık arayüz 🎨
+
+
+
+## 📷 Ekran Görüntüsü
+
+![Todo App Screenshot](./screenshot.png)
+
+
+
+## 🛠️ Kullanılan Teknolojiler
+
+* React
+* Tailwind CSS
+* JavaScript (ES6+)**
+
+---
+
+## ⚙️ Kurulum ve Çalıştırma
+
+1. Repoyu klonla:
+
+   ```bash
+   git clone https://github.com/kullaniciAdin/todoapp.git
+   ```
+2. Proje dizinine gir:
+
+   ```bash
+   cd todoapp
+   ```
+3. Gerekli bağımlılıkları yükle:
+
+   ```bash
+npm create vite@latest .   npm install,npm install tailwindcss @tailwindcss/vite
+   ```
+4. Uygulamayı çalıştır:
+
+   ```bash
+   npm run dev
+   ```
+
+
+
+## 📌 Kullanım
+
+* Input alanına yazıp **Add** butonuna bas → görev eklenir.
+* Listedeki görev seçilip **Delete** ile silinebilir.
+
+
+
+## 🤝 Katkıda Bulunma
+
+1. Fork yap
+2. Yeni bir branch oluştur: `git checkout -b feature-yeniOzellik`
+3. Değişikliklerini commit et: `git commit -m 'Yeni özellik eklendi'`
+4. Push et: `git push origin feature-yeniOzellik`
+5. Pull request aç 🎉
+
+---
+
+## 📄 Lisans
+
+Bu proje **MIT** lisansı ile lisanslanmıştır.
+
+
+
+
